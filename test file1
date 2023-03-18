@@ -12,4 +12,4 @@ def maximum(a,b,c):
 	
 a,b,c = input().split()
 a,b,c = int(a), int(b), int(c)
-print("maximum은 ",maximum(a,b,c),"입니다.")
+print("이 세 수 중에서 maximum은 ",maximum(a,b,c),"입니다.")
